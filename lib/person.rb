@@ -1,4 +1,4 @@
-class person
+class Person
   
   def initilize(name)
     @name = name 
@@ -16,7 +16,7 @@ class person
     @job
   end
   
-  def job = (job)
+  def job= (job)
     @job = job
   end
     
