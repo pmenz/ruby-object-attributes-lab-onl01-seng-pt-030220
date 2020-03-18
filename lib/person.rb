@@ -1,8 +1,8 @@
 class Person
   
   def initiliz(name)
-    @name = name 
-    @job = job
+    @name = nam
+    
   end
 
   def name 
